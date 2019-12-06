@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "623065155081",
+    "firebase_url": "https://timetable-7b920.firebaseio.com",
+    "project_id": "timetable-7b920",
+    "storage_bucket": "timetable-7b920.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623065155081:android:568d0d203fcb8676251ad8",
+        "android_client_info": {
+          "package_name": "com.recoteam.timetable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623065155081-qifp10e044v7a5uiohfribcs9jhu54o6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1p11IR2GcTL95uNXzjMoCQ-gQQRftQ5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623065155081-qifp10e044v7a5uiohfribcs9jhu54o6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
